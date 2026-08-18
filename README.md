@@ -1,4 +1,4 @@
-# DrawEm26 ⚽
+# DrawEm26 ⚽ (OUTDATED)
 
 **DrawEm26** is a World Cup draw simulator built ahead of the **2026 World Cup** group stage draws. It lets you randomly draw teams into groups and even simulate group positions to automatically generate the Round of 32 knockout stage.
 
